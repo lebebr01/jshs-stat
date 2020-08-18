@@ -3,7 +3,6 @@ channels:
 dependencies:
   - r-base=4.0.2
   - r-tidyverse
-  - r-dt
   - r-ggformula
   - r-rpart
   - r-rpart.plot
